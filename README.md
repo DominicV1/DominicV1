@@ -11,7 +11,7 @@
 [![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]() <br>
 
 <h3 align="left">🚀 Frameworks</h3>
-[![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]() <br>
+[![Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]() <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
