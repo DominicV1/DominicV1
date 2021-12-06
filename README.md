@@ -3,23 +3,16 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DominicV1&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
 
 <h3 align="left">💻 Languages</h3>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-"/>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
-"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-"/>
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
+![image]({https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white})
+![image]({https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white})
+![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+
 
 <h3 align="left">🚀 Frameworks</h3>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-
+![image]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white})
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
